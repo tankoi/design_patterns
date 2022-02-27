@@ -1,0 +1,4 @@
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\2. Open-Closed Principle\Open-Closed Principle\bin\Debug\Open-Closed Principle.exe
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\2. Open-Closed Principle\Open-Closed Principle\bin\Debug\Open-Closed Principle.pdb
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\2. Open-Closed Principle\Open-Closed Principle\obj\x86\Debug\Open-Closed Principle.exe
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\2. Open-Closed Principle\Open-Closed Principle\obj\x86\Debug\Open-Closed Principle.pdb

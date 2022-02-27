@@ -1,0 +1,6 @@
+E:\Programing\Training\C#\DesignPatterns\02 Builder\FacetedBuilder\FacetedBuilder\bin\Debug\FacetedBuilder.exe.config
+E:\Programing\Training\C#\DesignPatterns\02 Builder\FacetedBuilder\FacetedBuilder\bin\Debug\FacetedBuilder.exe
+E:\Programing\Training\C#\DesignPatterns\02 Builder\FacetedBuilder\FacetedBuilder\bin\Debug\FacetedBuilder.pdb
+E:\Programing\Training\C#\DesignPatterns\02 Builder\FacetedBuilder\FacetedBuilder\obj\Debug\FacetedBuilder.csprojResolveAssemblyReference.cache
+E:\Programing\Training\C#\DesignPatterns\02 Builder\FacetedBuilder\FacetedBuilder\obj\Debug\FacetedBuilder.exe
+E:\Programing\Training\C#\DesignPatterns\02 Builder\FacetedBuilder\FacetedBuilder\obj\Debug\FacetedBuilder.pdb

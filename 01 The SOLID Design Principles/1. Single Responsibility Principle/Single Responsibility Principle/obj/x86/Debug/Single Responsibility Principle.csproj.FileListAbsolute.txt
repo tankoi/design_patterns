@@ -1,0 +1,4 @@
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\1. Single Responsibility Principle\Single Responsibility Principle\bin\Debug\Single Responsibility Principle.exe
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\1. Single Responsibility Principle\Single Responsibility Principle\bin\Debug\Single Responsibility Principle.pdb
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\1. Single Responsibility Principle\Single Responsibility Principle\obj\x86\Debug\Single Responsibility Principle.exe
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\1. Single Responsibility Principle\Single Responsibility Principle\obj\x86\Debug\Single Responsibility Principle.pdb

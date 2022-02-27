@@ -1,0 +1,4 @@
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\3. Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\Liskov Substitution Principle.exe
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\3. Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\Liskov Substitution Principle.pdb
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\3. Liskov Substitution Principle\Liskov Substitution Principle\obj\x86\Debug\Liskov Substitution Principle.exe
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\3. Liskov Substitution Principle\Liskov Substitution Principle\obj\x86\Debug\Liskov Substitution Principle.pdb

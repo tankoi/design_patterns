@@ -1,0 +1,8 @@
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\5. Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\Dependency Inversion Principle.exe
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\5. Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\Dependency Inversion Principle.pdb
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\5. Dependency Inversion Principle\Dependency Inversion Principle\obj\x86\Debug\Dependency Inversion Principle.exe
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\5. Dependency Inversion Principle\Dependency Inversion Principle\obj\x86\Debug\Dependency Inversion Principle.pdb
+G:\Learning - solutions\DesignPatterns\01 The SOLID Design Principles\5. Dependency Inversion Principle\Dependency Inversion Principle\obj\x86\Debug\Dependency Inversion Principle.exe
+G:\Learning - solutions\DesignPatterns\01 The SOLID Design Principles\5. Dependency Inversion Principle\Dependency Inversion Principle\obj\x86\Debug\Dependency Inversion Principle.pdb
+G:\Learning - solutions\DesignPatterns\01 The SOLID Design Principles\5. Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\Dependency Inversion Principle.exe.config
+G:\Learning - solutions\DesignPatterns\01 The SOLID Design Principles\5. Dependency Inversion Principle\Dependency Inversion Principle\obj\x86\Debug\Dependency Inversion Principle.csprojResolveAssemblyReference.cache

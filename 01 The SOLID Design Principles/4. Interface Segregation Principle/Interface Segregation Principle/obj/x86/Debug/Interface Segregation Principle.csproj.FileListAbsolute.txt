@@ -1,0 +1,4 @@
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\4. Interface Segregation Principle\Interface Segregation Principle\bin\Debug\Interface Segregation Principle.exe
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\4. Interface Segregation Principle\Interface Segregation Principle\bin\Debug\Interface Segregation Principle.pdb
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\4. Interface Segregation Principle\Interface Segregation Principle\obj\x86\Debug\Interface Segregation Principle.exe
+E:\Programing\Training\C#\DesignPatterns\01 The SOLID Design Principles\4. Interface Segregation Principle\Interface Segregation Principle\obj\x86\Debug\Interface Segregation Principle.pdb

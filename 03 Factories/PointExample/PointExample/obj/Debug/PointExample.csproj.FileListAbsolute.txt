@@ -1,0 +1,6 @@
+E:\Programing\Training\C#\DesignPatterns\03 Factories\PointExample\PointExample\bin\Debug\PointExample.exe.config
+E:\Programing\Training\C#\DesignPatterns\03 Factories\PointExample\PointExample\bin\Debug\PointExample.exe
+E:\Programing\Training\C#\DesignPatterns\03 Factories\PointExample\PointExample\bin\Debug\PointExample.pdb
+E:\Programing\Training\C#\DesignPatterns\03 Factories\PointExample\PointExample\obj\Debug\PointExample.csprojResolveAssemblyReference.cache
+E:\Programing\Training\C#\DesignPatterns\03 Factories\PointExample\PointExample\obj\Debug\PointExample.exe
+E:\Programing\Training\C#\DesignPatterns\03 Factories\PointExample\PointExample\obj\Debug\PointExample.pdb
